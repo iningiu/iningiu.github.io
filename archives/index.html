@@ -44,7 +44,7 @@
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
     localsearch: {"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: '',
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: '复制',
@@ -55,13 +55,16 @@
   };
 </script>
 
-  <meta property="og:type" content="website">
+  <meta name="description" content="saum的个人博客网站">
+<meta property="og:type" content="website">
 <meta property="og:title" content="Hexo">
 <meta property="og:url" content="http://iningiu.github.io/archives/index.html">
 <meta property="og:site_name" content="Hexo">
+<meta property="og:description" content="saum的个人博客网站">
 <meta property="og:locale" content="zh-CN">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo">
+<meta name="twitter:description" content="saum的个人博客网站">
   <link rel="canonical" href="http://iningiu.github.io/archives/">
 
 
@@ -320,7 +323,7 @@
       <div class="site-overview-wrap sidebar-panel">
         <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
   <p class="site-author-name" itemprop="name">saum</p>
-  <div class="site-description" itemprop="description"></div>
+  <div class="site-description" itemprop="description">saum的个人博客网站</div>
 </div>
 <div class="site-state-wrap motion-element">
   <nav class="site-state">
