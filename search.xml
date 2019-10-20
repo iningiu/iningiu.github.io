@@ -1,26 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>我的第一篇博客</title>
-      <link href="/2019/10/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-      <url>/2019/10/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
-      
-        <content type="html"><![CDATA[<p>天下难事，必作于易；天下大事，必作于细  :-）</p><a id="more"></a><p>经过两天的折腾，终于开通了自己的博客，希望能把这里建成属于自己的后花园！</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>EnglishPod94</title>
+    <url>/2019/10/20/English94/</url>
+    <content><![CDATA[<ol>
+<li><p>at times: 有时</p>
+</li>
+<li><p>in ages: for a long time<br> eg. I haven’t seen you in ages. = I haven’t seen you in really long time.<br>​      I have been studying English for ages.</p>
+</li>
+<li><p>run into: meeting someone accidentally<br> eg. I ran into my friend in DHU the other day.   </p>
+</li>
+<li><p>lose it: lose control of your emotions; show strong,negative emotions<br> eg. He completely lost it when I told him the terrible thing.</p>
+</li>
+<li><p>freak out: show a lot of emotion;be not able to control emotions<br> eg. She started freaking out when she saw a mouse run under her chair.</p>
+</li>
+<li><p>问候语：How is it going? = How are you?<br> Things are going great. = I’m doing well. = Great. = It’s great.</p>
+</li>
+</ol>
+<hr>
+<ol>
+<li><p>pad: a place where a person lives; apartment<br> eg. Your pad is really far out.</p>
+</li>
+<li><p>far out: the latest; cool </p>
+</li>
+<li><p>crash: sleep<br> eg. I lost my keys, so, I’m crashing at my girlfriend’s house.</p>
+</li>
+<li><p>groovy: very cool</p>
+</li>
+<li><p>You dig what I’m saying?<br> dig: appreciate, like</p>
+</li>
+<li><p>Last weekend, I throwed a birthday party at my home.<br>Let throw a bash to celebrate your engagement.<br> throw: host<br> bash: a big party.</p>
+</li>
+<li><p>I have to go to city hall today and take care of some business.</p>
+</li>
+</ol>
+]]></content>
       <categories>
-          
-          <category> 其它 </category>
-          
+        <category>听力</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>EnglishPod</tag>
+        <tag>听力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇博客</title>
+    <url>/2019/10/17/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<p>天下难事，必作于易；天下大事，必作于细  :-）</p>
+<a id="more"></a>
+
+<p>经过两天的折腾，终于开通了自己的博客，希望能把这里建成属于自己的后花园！</p>
+]]></content>
+      <categories>
+        <category>其它</category>
+      </categories>
+  </entry>
 </search>
